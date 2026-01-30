@@ -1,10 +1,10 @@
 <div align="left">
-  <img src="https://tabler.io/icons/static/tabler-icons/code.svg?color=gray&size=16" width="16" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="16" style="vertical-align: middle; margin-right: 6px;" />
   <b>The dataset and code will be released after the paper is accepted!!!</b>
 </div>
 
 <div align="left">
-  <img src="https://tabler.io/icons/static/tabler-icons/file-text.svg?color=gray&size=16" width="16" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg" width="16" style="vertical-align: middle; margin-right: 6px;" />
   <div align="center">
   <b>Abstract</b><br>
   </div>
