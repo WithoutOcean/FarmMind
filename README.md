@@ -7,3 +7,8 @@ Existing methods for farmland remote sensing image (FRSI) segmentation generally
 <p align="center">
   <img src="IMAGE/Fig.png" alt="Logo" style="width: 80%; max-width: 600px;" />
 </p>
+
+<div align="left">
+  <img src="https://via.placeholder.com/16" alt="Code Icon" style="vertical-align: middle; margin-right: 8px;" />
+  <code>print('Hello, World!')</code>
+</div>
