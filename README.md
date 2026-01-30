@@ -1,10 +1,10 @@
 <div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://tabler.io/icons/static/tabler-icons/code.svg?color=gray&size=16" width="16" style="vertical-align: middle; margin-right: 6px;" />
   <b>The dataset and code will be released after the paper is accepted!!!</b>
 </div>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/notion/393939" width="16" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://tabler.io/icons/static/tabler-icons/file-text.svg?color=gray&size=16" width="16" style="vertical-align: middle; margin-right: 6px;" />
   <div align="center">
   <b>Abstract</b><br>
   </div>
@@ -18,12 +18,12 @@
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" style="vertical-align: middle; margin-right: 6px;" />
   <a href="https://example.com/demo">Demo</a>
   <p align="center">
-  <img src="IMAGE/demo1.png" alt="Logo" style="width: 80%; max-width: 600px;" />
+  <img src="IMAGE/demo1.jpg" alt="Logo" style="width: 80%; max-width: 600px;" />
   </p>
   <p align="center">
-  <img src="IMAGE/demo2.png" alt="Logo" style="width: 80%; max-width: 600px;" />
+  <img src="IMAGE/demo2.jpg" alt="Logo" style="width: 80%; max-width: 600px;" />
   </p>
   <p align="center">
-  <img src="IMAGE/demo3.png" alt="Logo" style="width: 80%; max-width: 600px;" />
+  <img src="IMAGE/demo3.jpg" alt="Logo" style="width: 80%; max-width: 600px;" />
   </p>
 </div>
