@@ -17,9 +17,6 @@
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" style="vertical-align: middle; margin-right: 6px;" />
   <a href="https://example.com/demo">Demo</a>
   <p align="center">
-  <img src="IMAGE/demo1.jpg" alt="Logo" style="width: 80%; max-width: 600px;" />
-  </p>
-  <p align="center">
   <img src="IMAGE/demo2.jpg" alt="Logo" style="width: 80%; max-width: 600px;" />
   </p>
   <p align="center">
