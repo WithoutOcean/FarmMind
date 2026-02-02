@@ -1,8 +1,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="16" style="vertical-align: middle; margin-right: 6px;" />
-  <b>The dataset and code will be released after the paper is accepted!!!</b>  The preprint paper is available at:[paper] (http://arxiv.org/abs/2601.22809）
+  <b>The dataset and code will be released after the paper is accepted!!!</b> 
 </div>
-
+The preprint paper is available at: [paper](https://arxiv.org/abs/2601.22809)
 <div align="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg" width="16" style="vertical-align: middle; margin-right: 6px;" />
 <b>Abstract</b><br>
