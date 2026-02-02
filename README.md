@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="16" style="vertical-align: middle; margin-right: 6px;" />
-  <b>The dataset and code will be released after the paper is accepted!!!</b>
+  <b>The dataset and code will be released after the paper is accepted!!!</b>  The preprint paper is available at:[paper] (http://arxiv.org/abs/2601.22809）
 </div>
 
 <div align="center">
